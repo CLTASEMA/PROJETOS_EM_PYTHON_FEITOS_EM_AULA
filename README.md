@@ -33,4 +33,12 @@
 
 ![FOTO4](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/3209fd87-405f-440b-886d-5c41205ebbdb)
 
+<hr>
+
+5 - Preencha o campo de NOME DO PROGRAMA com o NOME DO PROGRAMA que deseja ver se está rodando na maquina (o nome do programa é o mesmo nome colocado antes das postas no documento "Database.txt"):
+
+
+![FOTO5](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/bcb91ff3-e3b2-41be-8aa2-5d006efeb1e6)
+
+
 
