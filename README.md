@@ -12,7 +12,7 @@
 
 # Exemplo de execução do programa:
 <hr>
-1 - Após baixar o repositorio entre pa pasta FINGERPRINT:
+1 - Após baixar o repositorio entre pa pasta FINGERPRINT:<br>
   
 ![FOTO1.png](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/blob/main/FOTO1%20.png)
 
