@@ -20,7 +20,7 @@
 2 -  Entre no arquivo "Database.txt":
 
 
-![FOTO2.png](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/blob/main/FOTO2%20.png)
+[![FOTO2.png](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/blob/main/FOTO2%20.png)]
 
 
 
