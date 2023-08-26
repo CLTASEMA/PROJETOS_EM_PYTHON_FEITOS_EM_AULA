@@ -10,3 +10,4 @@ Atividades realizadas em aula.<br>
 4.1 - Modelo de entrada => {nome do "programa"},{porta}{porta};<br>
 4.1.1 - Coloque o nome do programa e as portas separando por virgula e no final";";<br>
 5 - run portescan.py (comand = python3 portescan.py);<br>
+
