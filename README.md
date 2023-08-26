@@ -54,7 +54,7 @@
 7 -  Após a busca do programa caso não esteja rodando na maquina o app ira informar que o fingerprint não foi encontrado:
 
 
-![FOTO8](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/fe127e8f-26f7-4e8b-8622-fb1af6b908a1)       ![FOTO7](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/1bfd36c3-ee6d-4ae5-a7f3-9f76051f7c95)
+<center> ![FOTO8](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/fe127e8f-26f7-4e8b-8622-fb1af6b908a1)![FOTO7](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/1bfd36c3-ee6d-4ae5-a7f3-9f76051f7c95) </center>
 
 
 <hr>
