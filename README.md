@@ -1,4 +1,4 @@
-# PROJETOS_EM_PYTHON_FEITOS_EM_AULA<br>
+# PROJETOS EM PYTHON FEITOS EM AULA<br>
 Atividades realizadas em aula.<br>
 
 # Instruçãos<br>
