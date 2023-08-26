@@ -11,13 +11,16 @@
 5 - run portescan.py (comand = python3 portescan.py);<br>
 
 # Exemplo de execução do programa:
-<hr>
 1 - Após baixar o repositorio entre pa pasta FINGERPRINT:<br><br><br><br>
 
 ![FOTO1.png](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/blob/main/FOTO1%20.png)
 
 <hr>
 
+2 -  Entre no arquivo "Database.txt":
+
+
+![FOTO2.png](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/blob/main/FOTO2%20.png)
 
 
 
