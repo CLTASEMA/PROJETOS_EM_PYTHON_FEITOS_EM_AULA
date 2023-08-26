@@ -14,7 +14,7 @@
 
 1 - Após baixar o repositorio entre pa pasta FINGERPRINT:
   
-![FOTO1.png](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/blob/main/FOTO1%20.png)https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/blob/main/FOTO1%20.png)
+![FOTO1.png](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/blob/main/FOTO1%20.png)
 
 
 
