@@ -1,4 +1,4 @@
-# PROJETOS PORTESCAN COM PYTHON-NMAP<br>
+# PROJETOS PORTSCAN COM PYTHON-NMAP<br>
 Atividades realizadas em aula.<br>
 
 # Instruçãos<br>
