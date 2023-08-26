@@ -29,16 +29,37 @@
 
 <hr>
 
-4 - Preencha o campo de IP com o Ip que deseja escanear:
+4 - Execute o programa no terminal dentro da pasta:
+
+![FOTO6](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/b76eec82-4e92-4151-8e5c-81bb9184388c)
+
+
+<hr>
+
+
+5 - Preencha o campo de IP com o Ip que deseja escanear:
 
 ![FOTO4](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/3209fd87-405f-440b-886d-5c41205ebbdb)
 
 <hr>
 
-5 - Preencha o campo de NOME DO PROGRAMA com o NOME DO PROGRAMA que deseja ver se está rodando na maquina (o nome do programa é o mesmo nome colocado antes das postas no documento "Database.txt"):
+6 - Preencha o campo de NOME DO PROGRAMA com o NOME DO PROGRAMA que deseja ver se está rodando na maquina (o nome do programa é o mesmo nome colocado antes das postas no documento "Database.txt"):
 
 
 ![FOTO5](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/bcb91ff3-e3b2-41be-8aa2-5d006efeb1e6)
 
+
+<hr>
+
+7 -  Após a busca do programa caso não esteja rodando na maquina o app ira informar que o fingerprint não foi encontrado:
+
+
+![FOTO8](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/fe127e8f-26f7-4e8b-8622-fb1af6b908a1)
+
+
+![FOTO7](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/1bfd36c3-ee6d-4ae5-a7f3-9f76051f7c95)
+
+
+<hr>
 
 
