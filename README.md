@@ -1,7 +1,6 @@
 # PROJETOS PORTSCAN COM PYTHON-NMAP<br>
-Atividades realizadas em aula.<br>
 
-# Instruçãos<br>
+# Instruçãos:<br>
 
 1 - git clone https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA.git;<br>
 2 - Cd PROJETOS_EM_PYTHON_FEITOS_EM_AULA;<br>
@@ -10,4 +9,7 @@ Atividades realizadas em aula.<br>
 4.1 - Modelo de entrada => {nome do "programa"},{porta}{porta};<br>
 4.1.1 - Coloque o nome do programa e as portas separando por virgula e no final";";<br>
 5 - run portescan.py (comand = python3 portescan.py);<br>
+
+# Exemplo de execução:
+
 
