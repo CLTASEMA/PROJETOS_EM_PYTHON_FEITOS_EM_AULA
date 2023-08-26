@@ -1,7 +1,7 @@
 # PROJETOS_EM_PYTHON_FEITOS_EM_AULA<br>
 Atividades realizadas em aula.<br>
 
-#Instruçãos<br>
+# Instruçãos<br>
 
 1 - git clone https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA.git;<br>
 2 - Cd PROJETOS_EM_PYTHON_FEITOS_EM_AULA;<br>
