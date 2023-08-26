@@ -14,7 +14,7 @@
 
 1 - Após baixar o repositorio entre pa pasta FINGERPRINT:
   
-![sla](./FOTO1.png)
+![sla](FOTO1.png)
 
 
 
