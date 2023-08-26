@@ -26,3 +26,11 @@
 3  - Preencha a linha seguindo a instrução 4 : 
 
 ![FOTO3](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/aa52d99e-31f5-4571-b2c4-b83adde6dfd3)
+
+<hr>
+
+4 - Preencha o campo de IP com o Ip que deseja escanear:
+
+![FOTO4](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/3209fd87-405f-440b-886d-5c41205ebbdb)
+
+
