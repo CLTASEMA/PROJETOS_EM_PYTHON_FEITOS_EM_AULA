@@ -21,4 +21,8 @@
 
 ![FOTO2.png](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/blob/main/FOTO2.png)
 
-3 
+<hr>
+
+3  - Preencha a linha seguindo a instrução 4 : 
+
+![FOTO3](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/aa52d99e-31f5-4571-b2c4-b83adde6dfd3)
