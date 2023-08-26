@@ -62,7 +62,7 @@
 
 8 -  Caso o fingerprint seja encontrado o programa ira retornar:
 
-![Captura de tela 2023-08-26 163955](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/afdeebbc-41b3-4c50-aa22-5b2b05bb3edd)      ![Captura de tela 2023-08-26 163959](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/732d10b5-58e9-41db-a51f-9b61da7773e3)       ![Captura de tela 2023-08-26 163947](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/4caa55f3-e4e4-4044-bf45-24a195b3857f)
+![Captura de tela 2023-08-26 163959](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/732d10b5-58e9-41db-a51f-9b61da7773e3)       ![Captura de tela 2023-08-26 163947](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/4caa55f3-e4e4-4044-bf45-24a195b3857f)
 
 
 
