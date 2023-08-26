@@ -7,5 +7,6 @@ Atividades realizadas em aula.<br>
 2 - Cd PROJETOS_EM_PYTHON_FEITOS_EM_AULA;<br>
 3 - Install requirements.txt (comand = pip3 install -r requirements.txt);<br>
 4 - Alimente a Database.txt com as informações referentes do fingerprint que deseja procurar;<br>
-4.1 - Modelo de entrada => {nome do "programa"},{porta}{porta}; (coloque o nome do programa e as portas separando por virgula e no final ;);<br>
+4.1 - Modelo de entrada => {nome do "programa"},{porta}{porta};
+4.1.1 - Coloque o nome do programa e as portas separando por virgula e no final";";<br>
 5 - run portescan.py (comand = python3 portescan.py);<br>
