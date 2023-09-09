@@ -74,8 +74,8 @@ Esses botões são projetados para tornar a sua experiência com o PROJETO PORTS
 ![foto 4](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/f9bccd61-dffc-43a9-ae74-46554b0860eb)
 
 
-
 <hr>
+
 ## Como Usar o Programa com a opção nome de serviço 📋🔍
 
 1. 🔸 **Selecione a Opção "Escolha o Nome do Serviço"**: No menu principal, escolha esta opção para iniciar o processo de busca por fingerprint.
@@ -87,58 +87,54 @@ Esses botões são projetados para tornar a sua experiência com o PROJETO PORTS
    - 🔄 **Selecionando no Menu**: Se preferir, você pode escolher o nome do programa a partir de uma lista suspensa para maior comodidade.
 
 4. 🚀 **Clique em "Buscar"**: Depois de inserir todas as informações necessárias, clique no botão "Buscar" para iniciar o processo de busca por fingerprint. O programa irá analisar a máquina-alvo e fornecer resultados valiosos.
-   
-1º No menu principal, escolha esta opção para iniciar o processo de busca por fingerprint:
+
+1º Saida do programa caso não encontre o fingerprint:
+
+![image](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/ccbbb7ac-3e4e-4a7b-8385-0d3f2eab2cff)
 
 
-![foto 2](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/8c0bf6c3-70cd-4b4f-95a5-18a1e66b4ee1)
+2º Saida do programa caso encontre o fingerprint:
 
-
-
-2º Insira o endereço IP da máquina que você deseja analisar:
-
-
-![foto 1](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/a7f2158a-510d-40c7-9f10-6913b2b566f9)
-
-3º Informe o Nome do Programa:
-
-
-![foto 3](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/d2c6b093-dfbc-44a9-bac9-54c69362dac3)
+![image (7)](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/16fb1ae9-f565-46e6-9666-8fc2683866f1)
 
 
 <hr>
 
 
-5 - Preencha o campo de IP com o Ip que deseja escanear:
 
-![FOTO4](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/3209fd87-405f-440b-886d-5c41205ebbdb)
+## Como Usar o Programa com a opção Intervalo de portas 📋🔍
 
-<hr>
+1. 🌐 **Selecione a Opção "Intervalo de Portas"**: No menu principal, escolha esta opção para iniciar a busca por serviços em um intervalo específico de portas.
 
-6 - Preencha o campo de NOME DO PROGRAMA com o NOME DO PROGRAMA que deseja ver se está rodando na maquina (o nome do programa é o mesmo nome colocado antes das postas no documento "Database.txt"):
+2. 🌐 **Informe o IP da Máquina Alvo**: Insira o endereço IP da máquina que deseja analisar. Certifique-se de fornecer um IP válido para a busca.
 
+3. 🔢 **Informe o Intervalo de Portas**: Especifique o intervalo de portas que deseja escanear. Você pode inserir o intervalo no formato "porta inicial - porta final", por exemplo, "80-1000".
 
-![FOTO5](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/bcb91ff3-e3b2-41be-8aa2-5d006efeb1e6)
+4. 🚀 **Clique em "Buscar"**: Após preencher todas as informações necessárias, clique no botão "Buscar" para iniciar o escaneamento do intervalo de portas especificado. O programa fornecerá os resultados detalhados para as portas dentro do intervalo selecionado.
 
+Utilize a opção "Intervalo de Portas" para uma análise precisa e eficaz das portas em sua máquina-alvo. Mantenha sua rede segura e protegida! 🚀🔒
 
-<hr>
+Caso tenha alguma porta aberta no intervalo informado o programa ira retornar com open:
 
-7 -  Após a busca do programa caso não esteja rodando na maquina o app ira informar que o fingerprint não foi encontrado:
-
-
-![FOTO8](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/fe127e8f-26f7-4e8b-8622-fb1af6b908a1)                          ![FOTO7](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/1bfd36c3-ee6d-4ae5-a7f3-9f76051f7c95) 
-
-
+Exemplo no programa: 
+![image (10)](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/c700ab53-191c-42e8-8ed5-186c76d60ea8)
 
 <hr>
 
-8 -  Caso o fingerprint seja encontrado o programa ira retornar:
+## Como Usar o Programa com a opção Informar Portas 📋🔍
 
-![Captura de tela 2023-08-26 163959](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/732d10b5-58e9-41db-a51f-9b61da7773e3)       ![Captura de tela 2023-08-26 163947](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/4caa55f3-e4e4-4044-bf45-24a195b3857f)
+Explore a terceira opção do programa, "Informar as Portas", para escanear portas específicas em uma máquina-alvo:
 
+1. 🌐 **Selecione a Opção "Informar as Portas"**: No menu principal, escolha esta opção para iniciar o escaneamento de portas especificadas manualmente.
 
+2. 🌐 **Informe o IP da Máquina Alvo**: Insira o endereço IP da máquina que deseja analisar. Certifique-se de fornecer um IP válido para a busca.
 
+3. 🔢 **Informe as Portas**: Digite as portas que deseja escanear, separadas por espaços. Por exemplo, "80 443 22" para escanear as portas 80, 443 e 22.
 
+4. 🚀 **Clique em "Buscar"**: Após inserir todas as informações necessárias, clique no botão "Buscar" para iniciar o escaneamento das portas especificadas. O programa fornecerá resultados detalhados para as portas informadas.
 
+Utilize a opção "Informar as Portas" quando precisar escanear portas específicas em sua máquina-alvo. Essa funcionalidade oferece controle total sobre quais portas serão analisadas. 🚀🔒
 
+Exemplo no programa: 
 
+![Sem título](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/a6f356ee-7cf0-4867-8a20-966e5f632cde)
