@@ -55,6 +55,7 @@ Após baixar o repositório, acesse a pasta FINGERPRINT e siga as instruções a
 
 4º Execute o script portescan.py: `python3 PROGRAMA_V2.py`
 
+![image (11)](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/ba27619c-0b7e-4875-810c-a942b82c9cf7)
 
 
 
@@ -113,10 +114,8 @@ Esses botões são projetados para tornar a sua experiência com o PROJETO PORTS
 4. 🚀 **Clique em "Buscar"**: Após preencher todas as informações necessárias, clique no botão "Buscar" para iniciar o escaneamento do intervalo de portas especificado. O programa fornecerá os resultados detalhados para as portas dentro do intervalo selecionado.
 
 Utilize a opção "Intervalo de Portas" para uma análise precisa e eficaz das portas em sua máquina-alvo. Mantenha sua rede segura e protegida! 🚀🔒
+Exemplo no programa (Caso tenha alguma porta aberta no intervalo informado o programa ira retornar com open):
 
-Caso tenha alguma porta aberta no intervalo informado o programa ira retornar com open:
-
-Exemplo no programa: 
 ![image (10)](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/c700ab53-191c-42e8-8ed5-186c76d60ea8)
 
 <hr>
