@@ -161,7 +161,13 @@ Exemplo no programa:
 
 Gostaria de conhecer mais sobre o PROJETO PORTSCAN COM PYTHON-NMAP em ação? Você pode assistir a demonstração completa da ferramenta em nosso vídeo no YouTube!
 
-🎥 **Assista ao Vídeo Tutorial**: [Clique aqui para assistir ao vídeo](https://www.youtube.com/watch?v=9hCbX9Sjb-k&feature=youtu.be)
+🎥 **Assista ao Vídeo Tutorial**: [Clique aqui para assistir ao vídeo no Youtube](https://www.youtube.com/watch?v=9hCbX9Sjb-k&feature=youtu.be)
+
+
+
+https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/9b0d2749-69c6-4671-978a-b509ccd63668
+
+
 
 Neste vídeo, você encontrará uma apresentação detalhada das funcionalidades da ferramenta, passo a passo de como usá-la e exemplos práticos de análises de rede. É uma maneira perfeita de se familiarizar com o programa e ver como ele pode ser uma adição valiosa às suas ferramentas de segurança e análise de rede.
 
