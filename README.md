@@ -29,12 +29,19 @@ Divirta-se explorando o mundo da segurança de rede com o PROJETO PORTSCAN COM P
 
 
 ## Exemplo de execução dos passos a cima:
-Após baixar o repositório, acesse a pasta FINGERPRINT e siga as instruções acima. 🔍🚀<br><br>
-1º Etapa: Git clone do projeto: `git clone https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/`<br><br>
+Após baixar o repositório, acesse a pasta FINGERPRINT e siga as instruções acima. 🔍🚀
+
+
+1º Etapa: Git clone do projeto: `git clone https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/`
+
+
 ![image (9)](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/036ddef1-36f3-4238-b67e-cd8c0249be09)
 <hr>
-<br>
-2º Etapa: Navegue até a pasta do projeto: `cd PROJETOS_EM_PYTHON_FEITOS_EM_AULA`<br><br>
+
+
+2º Etapa: Navegue até a pasta do projeto: `cd PROJETOS_EM_PYTHON_FEITOS_EM_AULA`
+
+
 
 <img width="368" alt="image (8)" src="https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/19c95360-c0ee-4a6e-8677-c570c3fb55e1"><br>
 
