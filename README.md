@@ -1,21 +1,40 @@
-# PROJETOS PORTSCAN COM PYTHON-NMAP 🌐🔍
+# 🚀 Bem-Vindo ao PROJETO PORTSCAN COM PYTHON-NMAP! 🌐🔍
 
-## Instruções de uso pela opção 1 (busca por fingerprint) 📝
+Seja bem-vindo ao nosso incrível projeto de escaneamento de portas e busca por fingerprints em máquinas-alvo. Este aplicativo Python-Nmap é uma ferramenta versátil que coloca o poder da análise de rede em suas mãos.
+
+## Principais Funcionalidades 🛠️
+
+O nosso programa oferece várias funcionalidades incríveis:
+
+1. 🔎 **Busca por Fingerprint**: Identifique e rastreie informações específicas em uma máquina-alvo com facilidade.
+
+2. 🎯 **Escaneamento de Range de Portas**: Realize varreduras em um intervalo de portas para descobrir serviços disponíveis.
+
+3. 🚀 **Escaneamento de Portas Específicas**: Selecione portas específicas para verificar a disponibilidade de serviços.
+
+4. 📋 **Alimentação de Base de Dados**: Mantenha uma base de dados atualizada com os fingerprints que deseja para futuras análises.
+
+5. 📅 **Registro de Atividades Diárias**: Cada operação executada no aplicativo gera um log de registro, organizado por dia, para um acompanhamento completo das atividades.
+
+Siga as instruções abaixo para instalar o programa e comece a explorar todas essas funcionalidades incríveis. 
+
+Divirta-se explorando o mundo da segurança de rede com o PROJETO PORTSCAN COM PYTHON-NMAP! 🔒🌐
+
+## Instruções de instalação da ferramenta. 📝
 
 1. Git clone do projeto: `git clone https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/`
 2. Navegue até a pasta do projeto: `cd PROJETOS_EM_PYTHON_FEITOS_EM_AULA`
 3. Instale as dependências: `pip3 install -r requirements.txt`
-4. Alimente o arquivo Database.txt com as informações referentes ao fingerprint que deseja procurar:
-   - Modelo de entrada: `{nome do "programa"},{porta}{porta};`
-   - Coloque o nome do programa e as portas separando por vírgula e no final `";"`
-5. Execute o script portescan.py: `python3 PROGRAMA_V2.py`
-6. Escolha a opção "Informar nome do serviço"
-7. Insira o IP da máquina-alvo
-8. Digite ou selecione o nome do programa
+4. Execute o script portescan.py: `python3 PROGRAMA_V2.py`
 
-## Exemplo de execução do programa:
+
+## Exemplo de execução dos passos a cima:
 Após baixar o repositório, acesse a pasta FINGERPRINT e siga as instruções acima. 🔍🚀
+1º Etapa: Git clone do projeto: `git clone https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/`
+![image (9)](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/036ddef1-36f3-4238-b67e-cd8c0249be09)
 
+<br>
+2º Etapa: Navegue até a pasta do projeto: `cd PROJETOS_EM_PYTHON_FEITOS_EM_AULA`
 
 <img width="368" alt="image (8)" src="https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/19c95360-c0ee-4a6e-8677-c570c3fb55e1">
 
