@@ -16,9 +16,26 @@ O nosso programa oferece várias funcionalidades incríveis:
 
 5. 📅 **Registro de Atividades Diárias**: Cada operação executada no aplicativo gera um log de registro, organizado por dia, para um acompanhamento completo das atividades.
 
+## Mais Ferramentas 🛠️📁
+
+Além das funcionalidades principais, nosso programa oferece duas ferramentas poderosas para melhorar sua experiência de análise de rede:
+
+1. 📜 **Arquivo Database**: Dentro da pasta "Fingerprint", você encontrará o arquivo "database.txt". Este arquivo é uma base de dados que permite que você gerencie e personalize os predefinidos de fingerprints do programa. Para adicionar ou remover um fingerprint, siga estas regras:
+   - Primeiro, insira o nome do programa.
+   - Em seguida, separe-o das portas por vírgula.
+   - Termine com um ponto e vírgula (`;`).
+   - Cada fingerprint deve ser colocado em uma linha separada no documento. Isso permite que você adapte o programa às suas necessidades específicas de análise.
+
+2. 📋 **Arquivo de Logs**: Cada vez que você abre o programa, ele gera automaticamente um arquivo de logs. Esse arquivo é separado por dia e contém um registro completo de todas as saídas e tentativas de busca realizadas no programa. É uma ferramenta valiosa para rastrear suas atividades e garantir a transparência em suas análises de rede.
+
+Essas ferramentas adicionais proporcionam mais controle e rastreamento em suas operações de escaneamento de rede, permitindo uma análise mais precisa e eficaz. Utilize-as para personalizar o programa de acordo com suas necessidades e manter um registro detalhado de suas atividades. 🚀📁
+
+
 Siga as instruções abaixo para instalar o programa e comece a explorar todas essas funcionalidades incríveis. 
 
 Divirta-se explorando o mundo da segurança de rede com o PROJETO PORTSCAN COM PYTHON-NMAP! 🔒🌐
+
+
 
 ## Instruções de instalação da ferramenta. 📝
 
