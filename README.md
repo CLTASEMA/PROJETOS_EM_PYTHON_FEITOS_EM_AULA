@@ -17,6 +17,7 @@
 Após baixar o repositório, acesse a pasta FINGERPRINT e siga as instruções acima. 🔍🚀
 
 
+<img width="368" alt="image (8)" src="https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/19c95360-c0ee-4a6e-8677-c570c3fb55e1">
 
 
 <hr>
