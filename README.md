@@ -46,21 +46,64 @@ Após baixar o repositório, acesse a pasta FINGERPRINT e siga as instruções a
 
 <hr>
 
-2 -  Entre no arquivo "Database.txt":
+3º Instale as dependências: pip3 install -r requirements.txt
 
-![FOTO2.png](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/blob/main/FOTO2.png)
+![pip](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/995994a0-952d-4ad0-9feb-c591475f48dd)
 
-<hr>
-
-3  - Preencha a linha seguindo a instrução 4 : 
-
-![FOTO3](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/aa52d99e-31f5-4571-b2c4-b83adde6dfd3)
 
 <hr>
 
-4 - Execute o programa no terminal dentro da pasta:
+4º Execute o script portescan.py: `python3 PROGRAMA_V2.py`
 
-![FOTO6](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/b76eec82-4e92-4151-8e5c-81bb9184388c)
+
+
+
+## Instruções basicas de uso do programa: 📋🔍
+
+O programa oferece três botões essenciais para facilitar a sua experiência:
+
+1. 🚀 **Buscar**: Clique neste botão sempre que preencher todas as informações necessárias em cada opção. Ele iniciará a busca por fingerprint na máquina-alvo e apresentará os resultados de forma clara e organizada.
+
+2. 🧹 **Limpar**: Se desejar limpar os resultados de saída de uma busca anterior e começar uma nova análise, clique neste botão. Isso garante que você tenha uma tela limpa para visualizar os resultados da próxima busca.
+
+3. 🔄 **Refresh**: Às vezes, você pode querer atualizar os dados de fingerprints inseridos no arquivo database sem reiniciar o programa. Clique neste botão para recarregar as informações, permitindo que você adicione ou remova dados sem interromper o fluxo de trabalho.
+
+Esses botões são projetados para tornar a sua experiência com o PROJETO PORTSCAN COM PYTHON-NMAP mais intuitiva e eficiente. Use-os conforme necessário para otimizar suas análises de rede! 🌐🔒
+
+
+![foto 4](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/f9bccd61-dffc-43a9-ae74-46554b0860eb)
+
+
+
+<hr>
+## Como Usar o Programa com a opção nome de serviço 📋🔍
+
+1. 🔸 **Selecione a Opção "Escolha o Nome do Serviço"**: No menu principal, escolha esta opção para iniciar o processo de busca por fingerprint.
+
+2. 🌐 **Informe o IP da Máquina Alvo**: Insira o endereço IP da máquina que você deseja analisar. Certifique-se de fornecer um IP válido para a busca.
+
+3. 💼 **Informe o Nome do Programa**: Você pode informar o nome do programa de duas maneiras:
+   - 📝 **Digitando no Campo**: Digite manualmente o nome do programa na caixa de texto apropriada.
+   - 🔄 **Selecionando no Menu**: Se preferir, você pode escolher o nome do programa a partir de uma lista suspensa para maior comodidade.
+
+4. 🚀 **Clique em "Buscar"**: Depois de inserir todas as informações necessárias, clique no botão "Buscar" para iniciar o processo de busca por fingerprint. O programa irá analisar a máquina-alvo e fornecer resultados valiosos.
+   
+1º No menu principal, escolha esta opção para iniciar o processo de busca por fingerprint:
+
+
+![foto 2](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/8c0bf6c3-70cd-4b4f-95a5-18a1e66b4ee1)
+
+
+
+2º Insira o endereço IP da máquina que você deseja analisar:
+
+
+![foto 1](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/a7f2158a-510d-40c7-9f10-6913b2b566f9)
+
+3º Informe o Nome do Programa:
+
+
+![foto 3](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/assets/143286412/d2c6b093-dfbc-44a9-bac9-54c69362dac3)
 
 
 <hr>
