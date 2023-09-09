@@ -1,19 +1,23 @@
-# PROJETOS PORTSCAN COM PYTHON-NMAP<br>
+# PROJETOS PORTSCAN COM PYTHON-NMAP 🌐🔍
 
-# Instruções:<br>
+## Instruções de uso pela opção 1 (busca por fingerprint) 📝
 
-1 - git clone https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA.git;<br>
-2 - Cd PROJETOS_EM_PYTHON_FEITOS_EM_AULA;<br>
-3 - Install requirements.txt (comand = pip3 install -r requirements.txt);<br>
-4 - Alimente a Database.txt com as informações referentes do fingerprint que deseja procurar;<br>
-4.1 - Modelo de entrada => {nome do "programa"},{porta}{porta};<br>
-4.1.1 - Coloque o nome do programa e as portas separando por virgula e no final";";<br>
-5 - run portescan.py (comand = python3 portescan.py);<br>
+1. Git clone do projeto: `git clone https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/`
+2. Navegue até a pasta do projeto: `cd PROJETOS_EM_PYTHON_FEITOS_EM_AULA`
+3. Instale as dependências: `pip3 install -r requirements.txt`
+4. Alimente o arquivo Database.txt com as informações referentes ao fingerprint que deseja procurar:
+   - Modelo de entrada: `{nome do "programa"},{porta}{porta};`
+   - Coloque o nome do programa e as portas separando por vírgula e no final `";"`
+5. Execute o script portescan.py: `python3 PROGRAMA_V2.py`
+6. Escolha a opção "Informar nome do serviço"
+7. Insira o IP da máquina-alvo
+8. Digite ou selecione o nome do programa
 
-# Exemplo de execução do programa:
-1 - Após baixar o repositorio entre pa pasta FINGERPRINT:<br><br><br><br>
+## Exemplo de execução do programa:
+Após baixar o repositório, acesse a pasta FINGERPRINT e siga as instruções acima. 🔍🚀
 
-![FOTO1.png](https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/blob/main/FOTO1%20.png)
+
+
 
 <hr>
 
