@@ -41,7 +41,7 @@ Divirta-se explorando o mundo da segurança de rede com o PROJETO PORTSCAN COM P
 
 1. Git clone do projeto: `git clone https://github.com/CLTASEMA/PROJETOS_EM_PYTHON_FEITOS_EM_AULA/`
 2. Navegue até a pasta do projeto: `cd PROJETOS_EM_PYTHON_FEITOS_EM_AULA`
-3. Instale as dependências: `pip3 install -r requirements.txt` (No caso da instalação em SO linux Instalar o tkinter com o seguinte comando sudo apt install python3-tkinter)
+3. Instale as dependências: `pip3 install -r requirements.txt` (No caso da instalação em SO linux Instalar o tkinter com o seguinte comando sudo apt install python3-tk)
 4. Execute o script portescan.py: `python3 PROGRAMA_V2.py`
 
 
